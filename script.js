@@ -7,7 +7,7 @@ for( let i=1;i<=150;i++){
 }
 document.querySelector("#pbtm").innerHTML=clutter;
 }
-let timer=60;
+let timer=600;
 let hitrn=0;
 let score=0;
 function runTimer(){
